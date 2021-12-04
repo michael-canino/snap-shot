@@ -6,3 +6,4 @@ This repository is only for school project.
 
 Source: [Click here](https://github.com/Yog9/SnapShot)
 
+# snap-shot
